@@ -1,5 +1,7 @@
 # ML_Wine_tasting
-Wine Quality Prediction
+## Wine Quality Prediction
+### predict the quality of wine on the basis of given features
+
 Step 1 – Importing libraries required for Wine Quality Prediction.
 Step 2 – Read input data.
 Step 3 – Describe the data.
